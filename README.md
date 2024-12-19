@@ -1,8 +1,4 @@
-# Im-amberIm
-
-<div align="center">
-  <img height="150" src=""  />
-</div>
+# Amber Im
 
 ###
 
@@ -12,7 +8,7 @@
 
 ###
 
-<h1 align="left">hey there 👋</h1>
+<h2 align="left">hey there 👋</h1>
 
 ###
 
@@ -20,11 +16,20 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+Hi there! I'm Amber 🇰🇷 🇦🇺
+
+A former designer and barista who fell down the rabbit hole of web development (and surprisingly enjoying every moment of it).
+
+- 🔭 Currently transforming my design pixels into functional code
+- 📚 Learning frontend development one debug message at a time
+- ⚡ In my free time, you'll find me daydreaming about cool website interactions and occasionally making them real
+
+I might look quiet at first, but ask me about my favorite animation studios or show me a cool motion graphic, and I'll talk your ear off! 🤫
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<br/>
+<h2 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -54,7 +59,8 @@
 
 ###
 
-<h3 align="left">🏄  Others</h3>
+<br/>
+<h2 align="left">🏄  Others</h3>
 
 ###
 
@@ -70,18 +76,22 @@
 
 ###
 
+<br/>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=im-amberim&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-amberim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=im-amberim&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/im-amberim/im-amberim/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-amberim/im-amberim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-amberim/im-amberim/output/github-snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/im-amberim/im-amberim/output/github-snake.svg" />
+</picture>
 
 ###
