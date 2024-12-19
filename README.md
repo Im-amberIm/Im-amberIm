@@ -83,8 +83,8 @@ I might look quiet at first, but ask me about my favorite animation studios or s
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=im-amberim&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=im-amberim&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
 
 ###
 
